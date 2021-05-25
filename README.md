@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Varun Shinde, currently pursuing my bachelor's degree majoring in computer science from [SIES Graduate School of Technology](http://www.siesgst.edu.in/). I am a tech enthusiast & loving solving logical problems. I am always open to collaborating on projects and learning new technologies. Find out more about me & feel free to connect with me here:
+I am Varun Shinde, currently pursuing my bachelor's degree majoring in computer science from [SIES Graduate School of Technology](http://www.siesgst.edu.in/). I am a tech enthusiast & love solving logical problems. I am always open to collaborating on projects and learning new technologies. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-varunshinde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-shinde-781215192/)](https://www.linkedin.com/in/varun-shinde-781215192/)
 [![Instagram Badge](https://img.shields.io/badge/-_varun_shinde-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_varun_shinde/)](https://www.instagram.com/_varun_shinde/)
@@ -29,7 +29,9 @@ I am Varun Shinde, currently pursuing my bachelor's degree majoring in computer 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=varuns1007&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varuns1007&hide=TeX&layout=compact)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=varuns1007&count_private=true&show_icons=true&include_all_commits=true) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varuns1007&theme=dark)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varuns1007&hide=TeX&layout=compact&theme=gruvbox)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=varuns1007.varuns1007)
